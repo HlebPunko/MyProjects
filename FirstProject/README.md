@@ -1,0 +1,1 @@
+Used technologies: .NET Core, EF Core, Razor Pages.
